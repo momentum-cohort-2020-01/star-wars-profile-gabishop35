@@ -1,0 +1,19 @@
+* {
+    
+}
+
+.picture {
+    width: 75%;
+    justify-content: center;
+    align-items: center;
+}
+.photo1 {
+    border-radius: 10%/50%;
+    width:100%;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    /* background: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fpin%2F72409506493094781%2F&psig=AOvVaw2FrSiGe78z9TvIHzdlKbnX&ust=1581020223422000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCi_7idu-cCFQAAAAAdAAAAABAO"; */
+}
