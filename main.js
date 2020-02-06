@@ -1,5 +1,6 @@
 const dataSection = document.querySelector('#boba-fett')
 const title = document.querySelector('.name')
+// const topLogo = document.querySelector(".logo")
 const list = document.querySelector("#list")
 let starWarsCharacter
 let starship
@@ -72,10 +73,10 @@ function renderAge () {
   list.appendChild(ageEl)
 }
 
-const logo = document.createElement('img')
-logo.src = "https://www.google.com/search?q=mandalorian%20logo&tbm=isch&tbs=isz%3Am&rlz=1C5CHFA_enUS878US879&hl=en&ved=0CAIQpwVqFwoTCKD98Kydu-cCFQAAAAAdAAAAABAE&biw=1324&bih=656#imgrc=HbzJ5G-BVbDvaM"
-logo.classList.add('photo2')
-title.appendChild(logo)
+// const logo = document.createElement('img')
+// logo.src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcults3d.com%2Fen%2F3d-model%2Fart%2Fmythosaur-skull-mandalorian-logo-stencil-sheet&psig=AOvVaw03ejG3yI2AqXfJhjVYhVOx&ust=1581042586819000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiG8-Lwu-cCFQAAAAAdAAAAABAD"
+// logo.classList.add('photo2')
+// topLogo.appendChild(logo)
 
 // const list = document.createElement("ul")
 // dataSection.appendChild(list)
